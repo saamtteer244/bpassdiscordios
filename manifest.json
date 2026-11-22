@@ -1,0 +1,14 @@
+{
+  "name": "AllowNSFW",
+  "description": "Убирает блокировку 18+ серверов на iOS",
+  "authors": [
+    {
+      "name": "Custom",
+      "id": "0"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_warning_24px"
+  }
+}
